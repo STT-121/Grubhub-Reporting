@@ -1,0 +1,9 @@
+oauth2client
+gspread
+gspread_dataframe
+google-auth
+google-api-python-client
+pandas
+openpyxl
+typing-extensions
+load-dotenv
