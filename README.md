@@ -1,4 +1,3 @@
-
 # Google Sheet Automation Project
 
 ## Overview
@@ -60,7 +59,13 @@ graph TD
     ```bash
     python --version
     ```
+-   Please run these command in terminal:
     
+    ```bash
+    python -m ensurepip --upgrade
+    python -m pip install --upgrade setuptools
+    
+    ```
 
 ### 3. Install Virtual Environment (venv)
 
